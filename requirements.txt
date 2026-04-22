@@ -1,0 +1,6 @@
+# Smart OR Waste Segregation — dependencies
+# pip install -r requirements.txt
+
+ultralytics>=8.2.0        # YOLOv8 (includes PyTorch)
+opencv-python>=4.9.0      # camera, display, drawing
+numpy>=1.24.0             # array ops (pulled in by ultralytics)
