@@ -131,13 +131,6 @@ python smart_waste_poc.py --image sample.jpg
 
 ---
 
-## ⚠️ Limitations
-
-* Depends on YOLO pretrained classes (not medical-specific)
-* Requires good lighting conditions
-* Not yet integrated with physical hardware (Arduino/IoT)
-
----
 
 ## 🚀 Future Improvements
 
@@ -155,11 +148,6 @@ Pull requests are welcome. For major changes, open an issue first.
 
 ---
 
-## 📜 License
-
-MIT License
-
----
 
 ## 👨‍💻 Author
 
